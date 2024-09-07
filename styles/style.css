@@ -52,8 +52,12 @@ ol {
   grid-template-columns: 711px 399px;
   grid-template-areas: 'result content__details';
   gap: 30px;
-  margin: 0 33px 0 33px;
+  margin: 0 33px;
+  padding-top: 133px;
   align-items: end;
+}
+
+.result {
 }
 
 .result__video-container {
